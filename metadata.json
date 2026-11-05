@@ -1,0 +1,6 @@
+{
+  "name": "CricFan AI",
+  "description": "Premium Responsive Live Cricket Dashboard with AI Insights, Real-Time Scorecard, and What-If Simulator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
